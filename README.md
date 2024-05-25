@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The Product Feedback Tool is an assignment given to me as an assessment. It enables users to submit, view, and comment on product feedback.
+Product Feedback Tool, an assignment given as part of an assessment. 
+
+It facilitates users in submitting, viewing, and commenting on feedback, with added functionality for mentioning other users in comments.
 
 ## Technical Requirements
 
