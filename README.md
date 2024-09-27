@@ -31,9 +31,6 @@ Product Feedback Tool facilitates users in submitting, viewing, and commenting o
 1. Ensure the tool is responsive and works well on both desktop and mobile devices.
 2. Create an intuitive and user-friendly interface for users to navigate and interact with the tool.
 
-## Live Website
-
-Check out the live website [here](https://ikon.letpreview.com).
 
 ## Installation
 
