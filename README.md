@@ -24,7 +24,7 @@ Product Feedback Tool facilitates users in submitting, viewing, and commenting o
 2. Comments should include the user's name, date, and content.
 3. Implement basic formatting options (e.g., bold, italic, code blocks) for comments.
 
-### Bonus (Mandatory for Seniors)
+### Bonus
 1. Allow users to mention other users in comments using the "@" symbol.
 
 ## User Experience (UX) Requirements
